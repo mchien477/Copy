@@ -1,0 +1,14 @@
+<table class="table table-bordered">
+    <tbody>
+      <tr>
+        <th>file1</th>
+        <th><button type="button" class="btn btn-danger">View now</button></th>
+        <th><button type="button" class="btn btn-warning">Download</button></th>
+      </tr>
+      <tr>
+        <th>file2</th>
+        <th><button type="button" class="btn btn-info">View now</button></th>
+        <th><button type="button" class="btn btn-success">Download</button></th>
+      </tr>
+    </tbody>
+</table>
